@@ -1,7 +1,7 @@
 # Spring Boot Student Management API
 
 A **Spring Boot RESTful API** for managing students, authentication, and greeting endpoints.  
-This project demonstrates **CRUD operations**, **REST best practices**, and **clean code structure** using Spring Boot.
+This project demonstrates **REST best practices**, and **clean code structure** using Spring Boot.
 
 ---
 
@@ -52,15 +52,15 @@ http://localhost:8080
 ## 📡 API Endpoints
 - ✅ Hello API
 GET /
-Response: "Hello from Spring Boot!"
-
+Response: "Seshathri"
+<img width="1920" height="1020" alt="SB1" src="https://github.com/user-attachments/assets/db4816be-02d3-401f-ae0d-ff2155e941aa" />
 - ✅ Login API
 GET /login
 Response: "Successfully Login"
-
-<img width="1920" height="1020" alt="SB1" src="https://github.com/user-attachments/assets/db4816be-02d3-401f-ae0d-ff2155e941aa" />
 <img width="1920" height="1020" alt="SB1 1" src="https://github.com/user-attachments/assets/d02a8d9b-e55e-4d2e-a61e-b343fee2deba" />
-##  📌 Example JSON for POST/PUT:
+
+
+##   📌 Example JSON for POST/PUT:
 ```bash
 {
   "rno": 1,
@@ -68,9 +68,11 @@ Response: "Successfully Login"
   "technology": "Java"
 }
 ```
-##  🧪 Testing
+
+
+##   🧪 Testing
 - Use Postman or cURL to test APIs.
-Example:
+- Example:
 curl -X GET http://localhost:8080/students
 
 ## 📖 Future Improvements
