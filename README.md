@@ -49,6 +49,10 @@ mvn spring-boot:run
 ```bash
 http://localhost:8080
 ```
+
+---
+
+
 ## 📡 API Endpoints
 - ✅ Hello API
 GET /
@@ -58,6 +62,8 @@ Response: "Seshathri"
 GET /login
 Response: "Successfully Login"
 <img width="1920" height="1020" alt="SB1 1" src="https://github.com/user-attachments/assets/d02a8d9b-e55e-4d2e-a61e-b343fee2deba" />
+
+---
 
 
 ##   📌 Example JSON for POST/PUT:
@@ -70,10 +76,16 @@ Response: "Successfully Login"
 ```
 
 
+---
+
+
 ##   🧪 Testing
 - Use Postman or cURL to test APIs.
 - Example:
 curl -X GET http://localhost:8080/students
+
+---
+
 
 ## 📖 Future Improvements
 ### Full CRUD support:
@@ -82,6 +94,9 @@ curl -X GET http://localhost:8080/students
   - Get student by ID (GET)
   - Update student (PUT)
   - Delete student (DELETE)
+
+---
+
 
 ## 👨‍💻 Author
 - Seshathri M
