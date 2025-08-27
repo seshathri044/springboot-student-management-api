@@ -1,4 +1,4 @@
-# Spring Boot Student Management API
+# Springboot-student-management-demo
 
 A **Spring Boot RESTful API** for managing students, authentication, and greeting endpoints.  
 This project demonstrates **REST best practices**, and **clean code structure** using Spring Boot.
